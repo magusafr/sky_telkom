@@ -4,7 +4,7 @@ body, html {
     padding: 0;
     height: 33.33vh; /* Body only shows the top 1/3 of the page */
     overflow: hidden; /* Hide anything beyond the 1/3 height */
-    background: linear-gradient(to bottom, #4ac7f4, #f0f0f0);
+    background: linear-gradient(to bottom, #4ac7f4, #FFFFFF);
 }
 
 .visual-container {
@@ -24,7 +24,7 @@ body {
 .content {
     height: 66.67vh; /* Content section takes up the remaining 2/3 */
     padding: 20px;
-    background: #f0f0f0;
+    background: #FFFFFF;
 }
 
 .sky {
