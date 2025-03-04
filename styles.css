@@ -16,6 +16,7 @@ body, html {
 
 body {
     height: 100vh; /* Restore full height */
+    
 }
 .visual-container {
     height: 33.33vh; /* Visual section takes up 1/3 of the page */
@@ -67,23 +68,23 @@ body {
 
 .cloud1 {
     width: 150px;
-    height: 60px;
-    top: 20%;
+    height: 50px;
+    top: 50%;
     left: 10%;
     animation-duration: 12s;
 }
 
 .cloud2 {
-    width: 200px;
-    height: 80px;
+    width: 150px;
+    height: 50px;
     top: 30%;
     left: 50%;
     animation-duration: 15s;
 }
 
 .cloud3 {
-    width: 180px;
-    height: 70px;
+    width: 150px;
+    height: 50px;
     top: 15%;
     left: 80%;
     animation-duration: 14s;
