@@ -104,8 +104,8 @@ body {
     position: absolute;
     bottom: 0; /* Building sits directly on the bottom edge */
     right: 10%; /* Position the building on the right */
-    width: 100px;
-    height: 150px;
+    width: 75px;
+    height: 100px;
     background: #555;
     clip-path: polygon(0% 100%, 20% 0%, 80% 0%, 100% 100%);
     display: flex;
@@ -114,10 +114,10 @@ body {
 }
 
 .telkom-logo {
-    width: 60px; /* Adjust based on your logo size */
+    width: 30px; /* Adjust based on your logo size */
     height: auto;
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
