@@ -16,7 +16,6 @@ body, html {
 
 body {
     height: 100vh; /* Restore full height */
-    overflow-y: auto; /* Enable vertical scrolling */
 }
 .visual-container {
     height: 33.33vh; /* Visual section takes up 1/3 of the page */
